@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://concrete-driveways-oahu-demo.thewateringhole-team.workers.dev/sitemap.xml
